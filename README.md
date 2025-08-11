@@ -81,4 +81,25 @@
 
 ## 🚀 Featured Projects
 
-| 🏆 Project
+| 🏆 Project | 💡 Description | 🔗 Link |
+|------------|---------------|--------|
+| **Financial Time Series Forecasting** | Built an LSTM deep learning model in Python (PyTorch) predicting stock prices; engineered indicators like moving averages and RSI; integrated financial news sentiment NLP; deployed on AWS EC2 with Docker. | [View Repo](https://github.com/YourUsername/financial-ts-forecast) |
+| **Low-Latency Market Data Feed Handler** | Developed high-performance C++ system processing real-time market data via UDP multicast; multithreaded order book management with lock-free data structures; optimized Linux epoll and Redis caching; achieved sub-millisecond latency. | [View Repo](https://github.com/YourUsername/market-data-feed) |
+| **Algorithmic Trading Strategy Backtester** | Python framework with Pandas and NumPy for designing and backtesting strategies; C++ components for speed; modeled transaction costs and risk constraints; integrated paper trading API for real-time validation. | [View Repo](https://github.com/YourUsername/trading-backtester) |
+
+---
+
+## 📚 Coursework & Certifications
+
+- **Coursework:** Software Engineering, Database Systems, Operating Systems, Web Technologies, Cloud Computing, Distributed Systems, Probability Theory, Linear Algebra, Calculus.  
+- **HPC & LLP:** Concurrent Programming, Network Socket Programming, Low-Latency Systems, Memory Management.  
+- **Certification:** Microsoft Certified — Azure AI Fundamentals.
+
+---
+
+<div align="center">
+
+### 🌟 Explore My Other Hubs  
+[💻 Software Development](https://github.com/prakashraj15/Software_Projects) • [🤖 AI & Machine Learning](https://github.com/prakashraj15/AI-Projects) 
+
+---
