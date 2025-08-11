@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Quantitative Developer Portfolio  
+# 📊 Fintech Project Hub
 ### *Algorithmic Trading • Low-Latency Systems • Financial Machine Learning*
 
 🚀 Showcasing expertise in **quantitative research, HPC, market data engineering, and AI-driven finance solutions**.
